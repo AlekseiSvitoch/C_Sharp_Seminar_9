@@ -1,0 +1,15 @@
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/bin/Debug/net6.0/task
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/bin/Debug/net6.0/task.deps.json
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/bin/Debug/net6.0/task.dll
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/bin/Debug/net6.0/task.pdb
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/obj/Debug/net6.0/task.dll
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/obj/Debug/net6.0/refint/task.dll
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/obj/Debug/net6.0/task.pdb
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_9/task/obj/Debug/net6.0/ref/task.dll
